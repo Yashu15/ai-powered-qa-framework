@@ -1,0 +1,12 @@
+.DS_Store
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Generated pytest reports and temporary test files.
+report.html
+app/report.html
+app/test_main.py
+app/test_booking.py

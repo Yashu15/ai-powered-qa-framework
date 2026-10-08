@@ -1,0 +1,3 @@
+docker
+langchain-core
+langchain-ollama
